@@ -22,11 +22,11 @@ jobs:
 
     - name: Compile C code
       # The 'gcc' command is available in the MSYS2 shell
-      run: gcc source/main.c -o hello.chip8
+      run: gcc source/main.c -o chip8.exe
 
     - name: Run the compiled program
       run: |
-        ./hello.chip8
+        ./chip8.exe
 
     - name: Upload artifact
       uses: actions/upload-artifact@v4
