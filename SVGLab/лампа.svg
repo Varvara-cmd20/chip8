@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+width="200"
+height="200"
+viewBox="0 0 200 200">
+<!-- Place shapes and graphics here -->
+<line x1="0" y1="100" x2="200" y2="100" stroke="black" />
+<circle cx="100" cy="100" r="50" fill="white" stroke="black" stroke-width="1"/>
+<line x1="75" y1="55" x2="120" y2="145" stroke="black" />
+<line x1="75" y1="145" x2="120" y2="55" stroke="black" />
+</svg>
